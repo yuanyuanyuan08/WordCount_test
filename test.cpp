@@ -3,6 +3,7 @@
 
 int main()
 {
-	printf("test_1.cpp\n");
+	int i = 0;
+	printf("%d", i);
 	return 0;
 }
